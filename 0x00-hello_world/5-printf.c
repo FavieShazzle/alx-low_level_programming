@@ -1,12 +1,14 @@
+
+
 #include <stdio.h>
 
 /**
- * main - this is the main function
- * Description: This function prints a test
- * Return: 0 to indicate success
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main (void)
 {
 	printf("with proper grammar, but the outcome is a piece of art, \n");
-	return (0)
+	return (0);
 }
